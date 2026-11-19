@@ -2,7 +2,7 @@
 
 Truly unpredictable OTP and API key generation using quantum superposition in Python (Qiskit).
 
-![IBM Quantum Logo](misc/header.png)
+![IBM Quantum Logo](misc/readme_header.png)
 
 [IBM Quantum](https://quantum.cloud.ibm.com/) is a cloud based platform that gives developers and researchers public access to real, superconducting quantum hardware. Instead of classical bits that are strictly 0 or 1, IBM's quantum processing units (QPUs) utilize qubits, leveraging quantum mechanics like superposition and entanglement accessible directly via Python through the open source [Qiskit](https://www.qiskit.org) framework.
 
