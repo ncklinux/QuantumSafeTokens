@@ -71,7 +71,6 @@ python main.py
 
 This is what the execution results look like inside the IBM Quantum dashboard after running the script. It confirms our entropy jobs completed successfully on physical hardware (`ibm_marrakesh`), displaying the live 156-qubit Heron architecture and calibration telemetry used to sample our tokens.
 
-|                                        |                                        |
 | :------------------------------------: | :------------------------------------: |
 | ![16](misc/screenshots/quantum_16.png) | ![17](misc/screenshots/quantum_17.png) |
 
