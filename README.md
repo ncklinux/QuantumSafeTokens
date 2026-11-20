@@ -1,10 +1,14 @@
 # QuantumSafeTokens
 
-Truly unpredictable OTP and API key generation using quantum superposition in Python (Qiskit).
+Truly unpredictable OTP and API key generation using quantum superposition in Python (via Qiskit SDK).
 
 ![IBM Quantum Logo](misc/readme_head.png)
 
-[IBM Quantum](https://quantum.cloud.ibm.com/) is a cloud based platform that gives developers and researchers public access to real, superconducting quantum hardware. Instead of classical bits that are strictly 0 or 1, IBM's quantum processing units (QPUs) utilize qubits, leveraging quantum mechanics like superposition and entanglement accessible directly via Python through the open source [Qiskit](https://www.qiskit.org) framework.
+[IBM Quantum](https://quantum.cloud.ibm.com/) is a cloud based platform that gives developers and researchers public access to real, superconducting quantum hardware. Instead of classical bits that are strictly 0 or 1, IBM's quantum processing units (QPUs) utilize qubits, leveraging quantum mechanics like superposition and entanglement, accessible directly via Python through the open source [Qiskit](https://www.qiskit.org) SDK.
+
+## Documentation
+
+For setup guides, execution workflows and API references, check the official [IBM Quantum Documentation](https://quantum.cloud.ibm.com/docs/en/guides). It covers everything, from getting started with the Qiskit SDK, to running workloads on real cloud QPUs.
 
 ## Motivation
 
